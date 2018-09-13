@@ -3,5 +3,10 @@
     { "author": "Mark Twain", "title": "Following the Equator" },
     { "author": "Charles Dickens", "title": "Oliver Twist" },
     { "author": "Ernest Hemingway", "title": "The Old Man and the Sea" }
+  ],
+  "reviews": [
+    { "author": "Mad Reviewer", "body": "I've been like it..." },
+    { "author": "Soft Critic", "body": "Awesome story..." },
+    { "author": "Glorious Reader", "body": "Unexpected outcome of the plot..." } 
   ]
 }
